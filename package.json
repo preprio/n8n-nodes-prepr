@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/preprio/n8n-node-prepr.git"
+    "url": "https://github.com/preprio/n8n-nodes-prepr.git"
   },
   "engines": {
     "node": ">=20.15"

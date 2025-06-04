@@ -62,3 +62,5 @@ This node allows dynamic creation, updating, and deletion of content via the Pre
 ## Support
 
 If you got any questions about the community node; contact the Prepr support team to get assistance.
+
+[![npm version](https://img.shields.io/npm/v/@preprio/n8n-nodes-prepr.svg)](https://www.npmjs.com/package/@preprio/n8n-nodes-prepr)

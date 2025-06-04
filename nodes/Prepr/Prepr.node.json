@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.Prepr",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage", "Communication", "Marketing & Content"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.prepr.io/graphql-api/authorization"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.prepr.io"
+			}
+		]
+	}
+}

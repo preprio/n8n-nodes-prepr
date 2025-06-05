@@ -151,7 +151,7 @@ export class Prepr implements INodeType {
 
 		requestDefaults: {
 			baseURL: 'https://graphql.prepr.io',
-			url: '/graphql'
+			url: 'graphql'
 		},
 
 		documentationUrl: 'https://docs.prepr.io',

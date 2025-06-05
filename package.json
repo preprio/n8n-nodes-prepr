@@ -1,6 +1,6 @@
 {
   "name": "@preprio/n8n-nodes-prepr",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "N8n community node package for Prepr CMS",
   "keywords": [
     "n8n-community-node-package",
